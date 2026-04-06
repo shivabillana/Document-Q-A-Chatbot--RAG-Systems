@@ -51,28 +51,6 @@ Users can upload documents and interact with them through a chat interface to ge
 
 ---
 
-## 🏗️ Architecture
-
-User Uploads Documents
-↓
-LangChain Document Loaders
-↓
-RecursiveCharacterTextSplitter
-↓
-Embeddings (Sentence Transformers)
-↓
-ChromaDB (Session-based collection)
-↓
-User Query
-↓
-Similarity Search (Top-K chunks)
-↓
-LLM (OpenRouter via LangChain)
-↓
-Final Answer (Context-aware)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** Streamlit  
