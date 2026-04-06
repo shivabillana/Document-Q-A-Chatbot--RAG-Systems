@@ -167,5 +167,3 @@ MIT License
 ## 👤 Author
 
 Shiva
-Srihitha
-
