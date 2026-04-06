@@ -166,5 +166,5 @@ MIT License
 
 ## 👤 Author
 
-Shiva
-Nithin
+1. Shiva
+2. Nithin
